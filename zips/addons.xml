@@ -73,7 +73,7 @@
 
 <addon id="service.subtitles.opensubtitles"
        name="OpenSubtitles.org"
-       version="5.2.1"
+       version="5.2.2"
        provider-name="amet, opensubtitles, juokelis, kasi45">
 	<requires>
 		<import addon="script.module.requests"/>
